@@ -1,0 +1,51 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "year": "1923",
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "status": "checked out"
+    },
+    {
+      "id": "3",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "year": 1960,
+      "status": "available"
+    },
+    {
+      "id": "4",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "status": "available"
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Classic",
+      "year": 1951,
+      "status": "checked out"
+    },
+    {
+      "id": "5fe9",
+      "title": "Gingle Bell",
+      "author": "Aliya Shaik",
+      "genre": "mystery",
+      "year": "2025"
+    }
+  ]
+}
