@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Book-dashboard.git/static/css/main.a4072699.css",
+    "main.js": "/Book-dashboard.git/static/js/main.c2184c42.js",
+    "index.html": "/Book-dashboard.git/index.html",
+    "main.a4072699.css.map": "/Book-dashboard.git/static/css/main.a4072699.css.map",
+    "main.c2184c42.js.map": "/Book-dashboard.git/static/js/main.c2184c42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4072699.css",
+    "static/js/main.c2184c42.js"
+  ]
+}
